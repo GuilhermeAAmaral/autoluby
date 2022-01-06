@@ -1,0 +1,1 @@
+export const BASE_URL = "https://autoluby.dev.luby.com.br"
