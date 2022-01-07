@@ -14,5 +14,5 @@ Ferramentas, dependências e libs instaladas: React JS, Axios, React-Router-Dom,
 
 Deploy: http://guilhermeamaral-autoluby.surge.sh/
 
-Rodando o projeto localmente: Faça o clone do repositorio, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start.
+Para rodar o projeto localmente: Faça o clone do repositorio, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start.
  
