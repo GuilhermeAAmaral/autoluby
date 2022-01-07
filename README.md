@@ -2,7 +2,7 @@ README
 
 Título: Autoluby
 
-Descrição: Um website projetado para o acompanhamento e controle dos veiculos e funcionários da empresa autoluby.
+Descrição: Um website projetado para o acompanhamento e controle dos veículos e funcionários da empresa autoluby.
 
 Funcionalidades: Página de login, navegação, listagem de funcionários, listagem de todos os veículos da empresa e listagem dos veíuclos do usuário.
 
